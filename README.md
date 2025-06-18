@@ -1,7 +1,8 @@
 # Aries Sales Data
 
-Welcome to my Sales Dashboard Project! 
-This project was created as part of the DSN Ladies in AI Mentorship Program, where I worked on analyzing sales data to provide actionable insights for decision-makers at Aries Management, a marketing organization.
+Welcome to my Sales Dashboard Project!
+
+This project was created as part of the DSN Ladies in AI Mentorship Program, where I worked on analyzing sales data to provide actionable insights for a marketing organization called Aries Management.
 
 
 
@@ -57,6 +58,7 @@ The final dashboard provided answers to key questions, such as:
 
 This dashboard made it easy for Aries Management to identify strengths, weaknesses, and opportunities in their sales strategy.
 
+![image-alt](https://github.com/Assanatou-Bah/Aries-Sales-Data-Analysis/blob/main/Sales%20Overview.png?raw=true)
 
 ## Tools Used
 **Power BI:** For creating the dashboard and visualizations.
