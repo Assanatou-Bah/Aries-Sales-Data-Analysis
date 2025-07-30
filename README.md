@@ -1,66 +1,54 @@
-# Aries Sales Data
+# 📊 Aries Sales Dashboard Analysis
 
 Welcome to my Sales Dashboard Project!
 
-This project was created as part of the DSN Ladies in AI Mentorship Program, where I worked on analyzing sales data to provide actionable insights for a marketing organization called Aries Management.
+This project focuses on analyzing sales data for a marketing organization, **Aries**, to uncover trends, identify sales gaps, and support better decision-making through a dynamic and interactive dashboard.
+
+## 📌 Project Overview
+
+The dashboard was developed to provide Aries Management with insights into their sales performance across regions, distributors, and product categories. The goal was to answer key business questions and offer a clear visual tool to support strategic planning and resource allocation.
+
+## 📄 Description
+
+### 💼 Business Questions Addressed
+- Which regions, products, and distributors are performing best?
+- Where are the sales gaps, and which areas need immediate attention?
+- How are weekly sales trends evolving over time?
+- What insights can guide better resource allocation and marketing efforts?
+
+
+### 🧠 Dashboard Development Process
+
+**1. Data Preparation**  
+- Cleaned and standardized raw data in Microsoft Excel  
+- Resolved inconsistencies, especially within the distributor column  
+- Created a **Date Table** to support time-based analysis and weekly trend tracking  
+
+**2. Insight Generation**  
+- Highlighted KPIs such as Total Weekly Sales, Week-over-Week Growth, and Top Regions, Products, and Distributors  
+- Focused on metrics that help evaluate both performance and growth opportunities  
+
+**3. Visual Design**  
+- Built an intuitive layout using KPI cards, bar charts, and line graphs  
+- Added interactive filters (slicers) for region, product, and time selection to enable deeper exploration by end-users  
 
 
 
-## Project Overview
+---
 
-### What Business Problems Was I Solving?
+## ✅ Key Results
 
-The goal of this dashboard was to help Aries Management answer critical business questions like:
+- **Top Region:** Bauchi with $82.27M in sales  
+- **Top Products:** Chicken 100 Cubes and Maggi Mixpy, each generating $263.11M  
+- **Top Distributor:** Rufai Muhammed, with $82.27M in total sales  
+- **Highest Sales Week:** Week 5 with $1.31B  
+- **Sales Trends:** Week-over-week growth visuals highlighted periods of decline and improvement, guiding timely decisions  
 
-1. Which regions, products, and distributors are performing the best?
-
-2. Where are the sales gaps, and what areas need immediate attention?
-
-3. How are weekly sales trends changing over time?
-
-4. What insights can help the team allocate resources more effectively?
-
-This dashboard aimed to make sense of the data, highlight trends, and provide clarity for better business decisions.
-
-
-## How I Designed the Dashboard
-
-Designing this dashboard involved a few key steps:
-
-**1. Data Preparation:**
-Cleaned and standardized the dataset, fixing issues like inconsistent entries in the distributors column
-
-Created a Date Table to support weekly comparisons and trends.
-
-**2. Focus on Insights:**
-Highlighted metrics like Total Weekly Sales, Week-over-Week growth, and top-performing regions, products, and distributors.
-
-**3. Clear Visualizations:**
-Used bar charts, line charts, and KPI cards to present insights in a way that’s easy to understand.
-
-**4. Interactivity:**
-Added slicers and filters for users to explore data by region, product, and time period.
-
-
-
-## What Were the Results?
-The final dashboard provided answers to key questions, such as:
-
-**Total Weekly Sales:** Weekly trends showed that Week 5 had the highest sales at $1.31B.
-
-**Top Region:** Bauchi was the best-performing region with $82.27M in sales.
-
-**Top Products:** Chicken 100 Cubes and Maggi Mixpy were the best-sellers, each generating $263.11M.
-
-**Top Distributor:** Rufai Muhammed led with sales of $82.27M.
-
-**Trends:** The Week-over-Week growth metric highlighted key periods of improvement and decline.
-
-This dashboard made it easy for Aries Management to identify strengths, weaknesses, and opportunities in their sales strategy.
+This dashboard enabled Aries Management to easily spot patterns, identify underperforming areas, and opportunities in their sales strategy.
 
 ![image-alt](https://github.com/Assanatou-Bah/Aries-Sales-Data-Analysis/blob/main/Sales%20Overview.png?raw=true)
 
 ## Tools Used
-**Power BI:** For creating the dashboard and visualizations.
+**Microsoft Excel:** For initial data cleaning and preparation.
+**Power BI:** For building interactive dashboard and visualizations.
 
-**Excel:** For initial data cleaning and preparation.
