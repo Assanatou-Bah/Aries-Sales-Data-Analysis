@@ -46,7 +46,7 @@ The dashboard was developed to provide Aries Management with insights into their
 
 This dashboard enabled Aries Management to easily spot patterns, identify underperforming areas, and opportunities in their sales strategy.
 
-![image-alt](https://github.com/Assanatou-Bah/Aries-Sales-Data-Analysis/blob/main/Sales%20Overview.png?raw=true)
+![image-alt](https://github.com/Assanatou-Bah/Aries-Sales-Data-Analysis/blob/main/Image/Sales%20Overview.png?raw=true)
 
 ## Tools Used
 **Microsoft Excel:** For initial data cleaning and preparation.
