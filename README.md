@@ -46,7 +46,13 @@ The dashboard was developed to provide Aries Management with insights into their
 
 This dashboard enabled Aries Management to easily spot patterns, identify underperforming areas, and opportunities in their sales strategy.
 
+
 ![image-alt](https://github.com/Assanatou-Bah/Aries-Sales-Data-Analysis/blob/main/Image/Sales%20Overview.png?raw=true)
+
+
+Check out the interactive [Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzE3ZjA4OGEtMDhmNS00ZDk0LWJlYjktOGRiM2FkOTIyYjFjIiwidCI6ImM0YmRkNGI2LTJjMTktNDIyNy1hNmIzLTgzMzhmMTFkMzVhZiIsImMiOjEwfQ%3D%3D) for more insights and visualizations.
+
+
 
 ## Tools Used
 **Microsoft Excel:** For initial data cleaning and preparation.
